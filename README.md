@@ -1,0 +1,2 @@
+# windowsADD
+windowsADD*/publicstar*
